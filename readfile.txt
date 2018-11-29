@@ -1,0 +1,142 @@
+XXX
+Apples
+JAN
+2.45
+10
+1 XXX
+Oranges
+JAN
+2.45
+14 
+1 XXX
+Bananas
+FEB
+2.45 
+15
+1 XXX
+Tomatoes
+MARCH
+3.99
+50
+2 XXX
+Carrots
+APRIL
+2.99
+48
+2 XXX
+Peppers
+APRIL
+1.99
+35
+2 XXX
+Chicken
+MARCH 
+8.99
+44
+3 XXX
+Beef
+MARCH 
+9.99 
+44 
+3 XXX
+Pork
+APRIL 
+5.99
+45
+3 XXX
+BrownBread
+11JAN 
+2.45 
+10
+4 XXX 
+White Bread
+12JAN
+3.00 
+15 
+4 XXX
+Ciabatta
+12JAN
+3.00 
+15 
+4 XXX
+AppleTart
+12JAN
+5.95
+15 
+5 XXX
+CinamonBun
+12JAN
+5 
+15 
+5 XXX
+Crumble
+12JAN
+3 
+15 
+5 XXX
+Chocolate
+12JAN
+3 
+15 
+6 XXX
+Plain
+12JAN
+3 
+15 
+6 XXX
+Jam
+12JAN
+3 
+15 
+6 XXX
+Arabica
+12JAN
+3 
+15 
+7 XXX
+Instant
+12JAN
+3 
+15 
+7 XXX
+Flavoured
+12JAN
+3 
+15 
+7 XXX
+Coke
+12JAN
+3 
+15 
+8 XXX
+7UP
+12JAN
+3 
+15 
+8 XXX
+Fanta
+12JAN
+3 
+15 
+8 XXX
+Beer
+12JAN
+3 
+15 
+9 XXX
+Wine
+12JAN
+3 
+15 
+9 XXX
+Spirits
+12JAN
+3 
+15 
+9 XXX
+
+
+
+
+
+
